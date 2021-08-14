@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghu-chikka
+- 👋 Hi, I’m @ Raghu Varma
 - 👀 I’m interested in Full Stack Web Development & Front-End Development
 - 🌱 I’m currently learning JS & React Js
 - 💞️ I’m looking to collaborate on Front-End Development
